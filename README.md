@@ -3,9 +3,9 @@
 Week 11 Assignment: Hangman
 
 Description
-In this week's assignment, I created a command-line hangman game using JavaScript constructor functions ran through Node.js.
+- In this week's assignment, I created a command-line hangman game using JavaScript constructor functions ran through Node.js.
 
-As an additional feature, I created hangman graphic for each wrong letter guessed.
+- As an additional feature, I created hangman graphic for each wrong letter guessed.
 
 Getting Started
 1. Clone repo.
@@ -25,4 +25,4 @@ Built With
 - Git Bash
 
 Author
-Eric Nuanes
+- Eric Nuanes
